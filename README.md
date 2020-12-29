@@ -1,1 +1,3 @@
 # jdi-django
+
+## Learning Django
