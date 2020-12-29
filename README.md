@@ -1,1 +1,1 @@
-# dyi-django
+# jdi-django
